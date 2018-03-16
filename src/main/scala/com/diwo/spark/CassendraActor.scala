@@ -6,7 +6,7 @@ package com.diwo.spark
 * Copyright (c) 2018.  Loven Systems - All Rights Reserved
 *
 * Unauthorized copying of this file, via any medium is strictly
- * prohibited
+* prohibited
 *
 */
 import akka.actor.{Actor, PoisonPill}
